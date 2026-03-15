@@ -1,10 +1,16 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date: 
+# Reg. No: 212223220049
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
+
+# TOOLS USED
+
+- DALL·E (OpenAI)
+- Stable Diffusion
+- MidJourney
 
 ## Procedure:
 1.	Analyze the Given Image:
@@ -48,8 +54,88 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+# IMAGE REPRODUCTION – EXAMPLE 1
+
+## Original Image Description
+
+A peaceful mountain landscape during sunset with a river flowing through the valley and trees along the riverbank.
+
+## Basic Prompt
+
+"A landscape with mountains and a river."
+
+## Refined Prompt
+
+"A serene mountain landscape during sunset with purple mountains in the background, a calm river flowing through the valley reflecting the golden sky, and green trees along the riverbank."
+
+## Final Prompt
+
+"A peaceful sunset landscape with tall purple mountains, a calm reflective river flowing through a valley, green trees along the riverbank, golden sunlight in the sky, soft clouds, realistic photography style, high detail."
+
+## Generated Image Result
+
+The generated image successfully produced a mountain landscape with a river and sunset lighting similar to the original reference image.
+
+# IMAGE REPRODUCTION – EXAMPLE 2
+
+## Original Image Description
+
+A cute orange cat sitting on a wooden table near a window with soft sunlight.
+
+## Basic Prompt
+
+"A cat sitting on a table."
+
+## Refined Prompt
+
+"A cute orange cat sitting on a wooden table near a window with soft natural sunlight."
+
+## Final Prompt
+
+"A realistic orange cat sitting on a wooden table near a bright window, warm sunlight illuminating the fur, soft shadows, cozy indoor environment, high-resolution photography style."
+
+## Generated Image Result
+
+The generated image closely matched the original reference image with similar lighting, color tones, and composition.
+
+# PROMPTS USED IN THE EXPERIMENT
+
+| Stage | Prompt |
+|------|------|
+| Basic Prompt | Simple description of objects in the image |
+| Refined Prompt | Added colors, lighting, and environment |
+| Final Prompt | Included style, composition, and detailed visual elements |
+
+# COMPARISON REPORT
+
+| Feature | Original Image | Generated Image |
+|--------|---------------|----------------|
+| Objects | Mountains / Cat | Similar objects reproduced |
+| Colors | Natural sunset colors | Slight variation but similar tones |
+| Lighting | Soft sunset / window light | Similar lighting produced |
+| Style | Realistic photography | Realistic AI-generated style |
+
+### Observations
+
+- Generated images closely matched the original images.
+- Small variations appeared in texture and color intensity.
+- Prompt refinement improved similarity between images.
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
+# IMAGE REPRODUCTION – EXAMPLE 1
+## Generated Image Result
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/82cc1f6c-cf3a-456c-9944-bd9a714ed1db" />
+
+# IMAGE REPRODUCTION – EXAMPLE 2
+## Generated Image Result
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/84419123-3bdf-42ec-9235-ef2559103fee" />
+
+# RESULT
+
+The prompts for reproducing the images were successfully executed using text-to-image generation models, and the generated images closely matched the original reference images.
+
